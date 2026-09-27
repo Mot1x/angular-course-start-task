@@ -86,7 +86,7 @@ ng serve --open --port 4300
 
 Task: `ng generate interface task model`
 
-TaskService: `ng generate service task`
+TaskService: `ng generate service task-service`
 
 TaskList: `ng generate component task-list --change-detection=OnPush`
 
